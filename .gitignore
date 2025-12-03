@@ -1,0 +1,53 @@
+# =============== Carpetas generadas automáticamente ===============
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/MemoryCaptures/
+
+# =============== Archivos generados por el proyecto / metadatos de usuario ===============
+# Archivos de caché del Asset Store
+.assetstore/
+# Archivos de caché del proyecto
+.vs/
+.vscode/
+
+# Configuraciones de compilación y datos de usuario
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.DS_Store
+*.gz
+*.zip
+*.rar
+*.exe
+*.dll
+*.meta
+*.pid
+# Archivos que a veces se generan
+nohup.out
+
+# =============== Unity Hub y Configuraciones de Versión ===============
+# Evitar que se rastreen los archivos que son específicos de la máquina
+# o que Unity recrea automáticamente.
+/Assets/AssetStoreTools/
+/Assets/Plugins/Editor/
+/Assets/Gizmos/
+/Assets/Shaders/
+/Assets/Textures/
+
+# Archivos de texto o log
+*.log
+# Archivos generados por IDEs (ej. Rider, Visual Studio)
+.idea/
+DerivedData/
+*.xcuserstate
+*.mode1v3
+*.pbxuser
+# Archivos específicos de macOS
+.DS_Store
